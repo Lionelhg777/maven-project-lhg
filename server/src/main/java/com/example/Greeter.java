@@ -12,9 +12,9 @@ public class Greeter {
 
   }
 
-  /**
-   * @return: This is a constructor.
-   */
+/**
+ * @return This is a class.
+ */
   public String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
